@@ -1,2 +1,2 @@
 # Timeer
-basic timeer app
+basic timer app for productivity under working
